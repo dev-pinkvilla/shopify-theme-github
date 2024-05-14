@@ -2890,7 +2890,7 @@ details-disclosure > details {
 }
 
 .gradient {
-  background: rgb(var(--color-background));
+  /* background: rgb(var(--color-background)); */
   background: '#971a1a';
   background-attachment: fixed;
 }
